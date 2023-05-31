@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+
+<html>
+
+<kepala>
+
+	<title>Repositori Sepakbola</title>
+
+	<meta charset="utf-8">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<tautan rel="stylesheet" href="style.css">
+
+</kepala>
+
+<tubuh>
+
+	<tajuk>
+
+		<h1>Repositori Sepak Bola</h1>
+
+		<nav>
+
+			<ul>
+
+				<li><a href="#">Beranda</a></li>
+
+				<li><a href="#">Tim</a></li>
+
+				<li><a href="#">Pemain</a></li>
+
+				<li><a href="#">Pertandingan</a></li>
+
+				<li><a href="#">Stadion</a></li>
+
+				<li><a href="#">Turnamen</a></li>
+
+				<li><a href="#">Sejarah</a></li>
+
+			</ul>
+
+		</nav>
+
+	</header>
+
+	<utama>
+
+		<bagian>
+
+			<h2>Selamat datang di Repositori Sepak Bola</h2>
+
+			<p>Repositori Sepakbola adalah situs web yang menyediakan informasi tentang berbagai aspek dunia sepakbola, seperti tim, pemain, pertandingan, stadion, turnamen, dan sejarah.</p>
+
+			<p>Anda dapat menjelajahi situs web ini dengan menggunakan menu navigasi di atas.</p>
+
+		</bagian>
+
+	</main>
+
+	<footer>
+
+		<p>Hak Cipta © 2023 Repositori Sepakbola. Dibuat oleh [yoshua fernando]</p>
+
+	</ footer>
+
+</tubuh>
+
+</html>
